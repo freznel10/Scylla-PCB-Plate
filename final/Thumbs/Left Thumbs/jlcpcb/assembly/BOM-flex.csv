@@ -1,0 +1,16 @@
+Comment,Designator,Footprint,LCSC
+D,"D1,D14,D19,D5,D9",Diode_TH_SOD123,C108804
+C,C1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C2798196
+Conn_01x03_Female,J2,PinHeader_1x03_P2.54mm_Vertical,
+SK6812MINI,D4,YS-SK6812MINI-E-bkb,
+SK6812MINI,D10,YS-SK6812MINI-E-bkb,
+SW_Push,SW9,SW_MX_KS_Choc-mod,
+SW_Push,SW19,SW_MX_KS_Choc-mod,
+SW_Push,SW14,SW_MX_KS_Choc-mod,
+SK6812MINI,D12,YS-SK6812MINI-E-bkb,
+SK6812MINI,D2,YS-SK6812MINI-E-bkb,
+Conn_01x06_Female,J1,PinHeader_1x06_P2.54mm_Vertical,
+SW_Push,SW1,SW_MX_KS_Choc-mod,
+SK6812MINI,D7,YS-SK6812MINI-E-bkb,
+SW_Push,SW5,SW_MX_KS_Choc-mod,
+Conn_01x01_Female,J3,PinHeader_1x01_P2.54mm_Vertical,
