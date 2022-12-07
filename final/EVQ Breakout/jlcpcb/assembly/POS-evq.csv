@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x05_Female,PinHeader_1x05_P2.00mm_Vertical,81.109997,-111.239995,90.0,top
+J2,Conn_01x05_Female,PinHeader_1x05_P2.00mm_Vertical,99.565032,-111.239995,90.0,top
+SW1,Rotary_Encoder_Switch-EVQ,EVQWGD001-sadek-no cutout,84.659983,-101.639987,180.0,top
+SW2,Rotary_Encoder_Switch-EVQ,EVQWGD001-sadek-no cutout,103.115018,-101.639987,180.0,top

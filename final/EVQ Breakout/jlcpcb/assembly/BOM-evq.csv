@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+Conn_01x05_Female,J2,PinHeader_1x05_P2.00mm_Vertical,
+Rotary_Encoder_Switch-EVQ,SW1,EVQWGD001-sadek-no cutout,
+Rotary_Encoder_Switch-EVQ,SW2,EVQWGD001-sadek-no cutout,
+Conn_01x05_Female,J1,PinHeader_1x05_P2.00mm_Vertical,
